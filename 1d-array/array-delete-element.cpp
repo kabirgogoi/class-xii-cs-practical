@@ -72,3 +72,28 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+
+Enter array size (Max. 50): 5
+
+Enter array elements:
+10
+20
+30
+40
+50
+
+Enter the element to be deleted: 20
+The array is now as is shown bellow
+Zero (0) signifies deleted element
+10      0       30      40      50
+
+After this emptied space will be shifted to the end of the array
+
+Want to delete more elements(y/n):      n
+
+The array after shifting emptied spaces towards the right is:
+10      30      40      50
+*/

@@ -69,3 +69,31 @@ int main()
 
     return 0;
 }
+
+/*
+Output
+
+
+Enter array size (Max. 50): 5
+
+Enter array elements:
+10
+20
+30
+40
+50
+
+Enter element to be inserted: 60
+Enter the desired index for the element (0 to 5): 4
+
+Do you want to insert more elements? (y/n): y
+
+Enter element to be inserted: 100
+Enter the desired index for the element (0 to 6): 3
+
+Do you want to insert more elements? (y/n): n
+
+The array is as shown below:
+10      20      30      100     40      60      50
+
+*/

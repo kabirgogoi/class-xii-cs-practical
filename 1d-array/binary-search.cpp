@@ -48,3 +48,18 @@ int main()
 
     return 0;
 }
+
+/*
+Output
+
+Enter array size (Max 50): 6
+Enter array elements (must be sorted in ASC order): 10
+20
+30
+40
+50
+60
+Enter element to be searched: 30
+Element is present at index 2
+
+*/

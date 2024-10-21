@@ -37,3 +37,17 @@ int main()
 
     return 0;
 }
+
+
+/*
+Output
+
+Enter array size (Max 50): 5
+Enter array elements: 100
+20
+30
+10
+50
+Enter element to be searched: 30
+Element is present at index 2
+*/

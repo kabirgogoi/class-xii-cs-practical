@@ -27,3 +27,11 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+
+CNB Senior Secondary Bokakhat
+Learning file operations in C++
+
+*/

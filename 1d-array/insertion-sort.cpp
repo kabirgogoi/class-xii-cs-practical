@@ -41,3 +41,17 @@ int main()
 
     return 0;
 }
+
+
+/*
+Output
+
+Enter array size (Max 50): 5
+Enter array elements (unsorted): 100
+10
+30
+1
+55
+Sorted array:
+1       10      30      55      100
+*/

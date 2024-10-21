@@ -14,7 +14,7 @@ int main()
         outputFile << "This line is appended to notes.txt" << endl;
         outputFile.close();
 
-        cout << "Success!!" << endl;
+        cout << "Successfully appended to file" << endl;
     }
     else
     {
@@ -22,3 +22,10 @@ int main()
     }
     return 0;
 }
+
+/*
+
+Output
+
+Successfully appended to file
+*/

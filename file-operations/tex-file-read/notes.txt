@@ -1,3 +1,2 @@
-There once was a boy who grew bored while watching over the village sheep. 
-He wanted to make things more exciting. 
-So, he yelled out that he saw a wolf chasing the sheep.
+CNB Senior Secondary Bokakhat
+Learning file operations in C++

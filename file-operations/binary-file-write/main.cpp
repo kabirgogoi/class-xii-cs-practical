@@ -15,7 +15,7 @@ int main()
         outputFile << "We read in class XII" << endl;
 
         outputFile.close();
-        cout << "Success!!" << endl;
+        cout << "Successfully wrote to file" << endl;
     }
     else
     {
