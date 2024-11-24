@@ -83,3 +83,45 @@ int main() {
     return 0;
 }
 
+
+
+/*
+Output
+
+Enter item for insertion: 10
+The stack now is:
+10 <--
+Want to insert more elements? (y/n): y
+Enter item for insertion: 20
+The stack now is:
+20 <--
+10
+Want to insert more elements? (y/n): y
+Enter item for insertion: 30
+The stack now is:
+30 <--
+20
+10
+Want to insert more elements? (y/n): y
+Enter item for insertion: 40
+The stack now is:
+40 <--
+30
+20
+10
+Want to insert more elements? (y/n): n
+Do you want to pop an element? (y/n): y
+Popped item: 40
+The stack now is:
+30 <--
+20
+10
+Do you want to pop another element? (y/n): y
+Popped item: 30
+The stack now is:
+20 <--
+10
+Do you want to pop another element? (y/n): n
+
+
+*/

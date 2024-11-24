@@ -91,7 +91,7 @@ int main()
     // Insertion phase using do...while loop
     do
     {
-        cout << "Enter ITEM for insertion: ";
+        cout << "Enter item for insertion: ";
         cin >> item;
 
         if (queue.insert(item) == -1)
@@ -133,3 +133,49 @@ int main()
 
     return 0;
 }
+
+
+/*
+Output
+
+Enter item for insertion: 10
+
+Now the Queue (Front...to...Rear) is:
+10
+
+Want to insert more elements? (y/n): y
+Enter item for insertion: 20
+
+Now the Queue (Front...to...Rear) is:
+10 <- 20
+
+Want to insert more elements? (y/n): y
+Enter item for insertion: 30
+
+Now the Queue (Front...to...Rear) is:
+10 <- 20 <- 30
+
+Want to insert more elements? (y/n): y
+Enter item for insertion: 40
+
+Now the Queue (Front...to...Rear) is:
+10 <- 20 <- 30 <- 40
+
+Want to insert more elements? (y/n): n
+
+Do you want to start the deletion process? (y/n): y
+Now deletion of elements begins:
+
+Element deleted is: 10
+Now the Queue (Front...to...Rear) is:
+20 <- 30 <- 40
+
+Want to delete more elements? (y/n): y
+
+Element deleted is: 20
+Now the Queue (Front...to...Rear) is:
+30 <- 40
+
+Want to delete more elements? (y/n): n
+
+*/
