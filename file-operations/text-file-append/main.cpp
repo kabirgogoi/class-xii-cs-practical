@@ -1,3 +1,5 @@
+// AIM: To append a line to a text file using C++
+
 #include <iostream>
 #include <fstream>
 

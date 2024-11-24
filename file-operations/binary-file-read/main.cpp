@@ -1,3 +1,5 @@
+// AIM: To read the content of a binary file using C++
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -27,3 +29,11 @@ int main()
 
     return 0;
 }
+
+/*
+Output
+
+CNB Senior Secondary School
+We read in class XII
+
+*/

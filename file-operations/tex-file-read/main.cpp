@@ -1,3 +1,5 @@
+// AIM: To read the content of a text file using C++
+
 #include <iostream>
 #include <fstream>
 #include <string>

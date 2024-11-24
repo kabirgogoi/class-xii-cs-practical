@@ -1,3 +1,5 @@
+// AIM: To write to a text file using C++
+
 #include <iostream>
 #include <fstream>
 

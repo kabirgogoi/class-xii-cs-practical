@@ -1,3 +1,5 @@
+// AIM: To write data to a binary file using C++
+
 #include <iostream>
 #include <fstream>
 
@@ -24,3 +26,9 @@ int main()
 
     return 0;
 }
+
+/*
+Output
+
+Successfully wrote to file
+*/
