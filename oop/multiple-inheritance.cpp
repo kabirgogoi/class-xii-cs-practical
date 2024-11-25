@@ -64,6 +64,6 @@ Output:
 
 Name: Dr. M Hazarika, Age: 30 years
 Employee ID: EMP12345, Department: Computer Science
-Subject: Machine Learning
+Subject: C++ Programming
 
 */
